@@ -1,6 +1,6 @@
-﻿token= توكن البوت
-owner= ايدي حسابك 
-prefix= برفكس البوت
-game= 
+token= NTMxNTcwMjE0ODE1NjYyMDgw.DxP3Mw.gyCJe27_3r-tE5LkkdfF9zVq9lU
+owner= 439102535693762582 
+prefix= ev
+game= evplay
 stayinchannel=true 
 songinstatus=false 
