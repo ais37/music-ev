@@ -1,6 +1,6 @@
-token= NTMxNTcwMjE0ODE1NjYyMDgw.DxP3Mw.gyCJe27_3r-tE5LkkdfF9zVq9lU
+token= NTQ0MTYzMzI4NTA3OTA0MDA1.XUl-jg.CQPN5oqu1vwz9uqk4SSA-fZfreo
 owner= 439102535693762582 
-prefix= ev
-game= evplay
+prefix= s
+game= splay
 stayinchannel=true 
 songinstatus=false 
