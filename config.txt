@@ -1,5 +1,5 @@
 token= NTQ0MTYzMzI4NTA3OTA0MDA1.XUl-jg.CQPN5oqu1vwz9uqk4SSA-fZfreo
-owner= 439102535693762582 
+owner= 540088719802105856 
 prefix= s
 game= splay
 stayinchannel=true 
